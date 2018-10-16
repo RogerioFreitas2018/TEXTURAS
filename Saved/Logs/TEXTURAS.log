@@ -1,0 +1,1242 @@
+﻿Log file open, 09/28/18 21:50:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TEXTURAS
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1602110254) SRandInit(1602110254).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.156368
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: 
+LogInit: Base directory: D:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.29-00.50.20:295][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.29-00.50.20:296][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.29-00.50.20:309][  0]LogInit: Computer: ROGERIO
+[2018.09.29-00.50.20:309][  0]LogInit: User: rogeriofreitas
+[2018.09.29-00.50.20:309][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.29-00.50.20:309][  0]LogInit: High frequency timer resolution =3.515622 MHz
+[2018.09.29-00.50.20:309][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.09.29-00.50.20:309][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.29-00.50.20:309][  0]LogMemory: Process Physical Memory: 276.33 MB used, 276.33 MB peak
+[2018.09.29-00.50.20:309][  0]LogMemory: Process Virtual Memory: 274.12 MB used, 274.12 MB peak
+[2018.09.29-00.50.20:309][  0]LogMemory: Physical Memory: 4942.78 MB used,  11392.96 MB free, 16335.73 MB total
+[2018.09.29-00.50.20:309][  0]LogMemory: Virtual Memory: 649.86 MB used,  11392.96 MB free, 134217728.00 MB total
+[2018.09.29-00.50.20:396][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.09.29-00.50.20:397][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.09.29-00.50.20:917][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.29-00.50.20:943][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.09.29-00.50.20:943][  0]LogD3D11RHI:       3975/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.29-00.50.20:944][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.29-00.50.20:944][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.29-00.50.20:944][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.29-00.50.20:948][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.29-00.50.20:948][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.29-00.50.20:948][  0]LogWindows: EnumDisplayDevices:
+[2018.09.29-00.50.20:948][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.09.29-00.50.20:948][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.09.29-00.50.20:948][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.09.29-00.50.20:948][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.09.29-00.50.20:948][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.29-00.50.20:948][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.09.29-00.50.20:948][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.09.29-00.50.20:948][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.09.29-00.50.20:948][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.09.29-00.50.20:959][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.29-00.50.20:980][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.29-00.50.21:029][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Intermediate/Shaders/WorkingDirectory/2660/).
+[2018.09.29-00.50.21:029][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rogerio freitas/AppData/Local/Temp/UnrealShaderWorkingDir/369AB27A4C901CEAA68B63A3E8CBCE28/'.
+[2018.09.29-00.50.21:029][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.29-00.50.21:707][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.29-00.50.21:736][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.29-00.50.21:765][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.29-00.50.21:794][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.29-00.50.21:824][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.29-00.50.21:853][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.29-00.50.21:882][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.29-00.50.21:911][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.29-00.50.21:934][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.29-00.50.21:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-00.50.21:991][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.09.29-00.50.22:020][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.09.29-00.50.22:049][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.09.29-00.50.22:077][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.09.29-00.50.22:105][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.09.29-00.50.22:162][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.09.29-00.50.22:162][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.09.29-00.50.22:181][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.29-00.50.22:242][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.29-00.50.22:275][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.29-00.50.22:321][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.29-00.50.22:350][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.29-00.50.22:378][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.29-00.50.22:407][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.29-00.50.22:407][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.29-00.50.22:650][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.29-00.50.22:743][  0]LogDerivedDataCache: Loaded boot cache 0.09s 94MB C:/Users/rogerio freitas/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.09.29-00.50.22:743][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rogerio freitas/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.09.29-00.50.22:743][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.29-00.50.22:743][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.29-00.50.22:743][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.29-00.50.22:743][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.29-00.50.22:758][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.29-00.50.22:770][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rogerio freitas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.29-00.50.22:778][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.29-00.50.22:779][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.29-00.50.22:779][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.29-00.50.22:779][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.29-00.50.22:992][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2018.09.29-00.50.23:082][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.29-00.50.23:310][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.29-00.50.23:330][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.29-00.50.23:330][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.29-00.50.23:330][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.29-00.50.23:330][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.29-00.50.23:330][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.29-00.50.23:332][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.09.29-00.50.23:684][  0]LogNetVersion: TEXTURAS , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2601616039)
+[2018.09.29-00.50.23:809][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.012454 seconds
+[2018.09.29-00.50.23:814][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.09.29-00.50.23:814][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.09.29-00.50.23:814][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.29-00.50.23:845][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.09.29-00.50.25:457][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.29-00.50.25:484][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.29-00.50.25:868][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.09.29-00.50.26:096][  0]SourceControl: Source control is disabled
+[2018.09.29-00.50.26:096][  0]SourceControl: Source control is disabled
+[2018.09.29-00.50.26:120][  0]SourceControl: Source control is disabled
+[2018.09.29-00.50.26:142][  0]SourceControl: Source control is disabled
+[2018.09.29-00.50.26:425][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.29-00.50.26:542][  0]LogOcInput: OculusInput pre-init called
+[2018.09.29-00.50.26:683][  0]LogEngine: Initializing Engine...
+[2018.09.29-00.50.26:684][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.29-00.50.26:876][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.29-00.50.26:876][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.29-00.50.26:945][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.29-00.50.26:951][  0]LogInit: XAudio2 using 'SAMSUNG-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-00.50.26:963][  0]LogInit: FAudioDevice initialized.
+[2018.09.29-00.50.27:221][  0]LogDerivedDataCache: Saved boot cache 0.26s 94MB C:/Users/rogerio freitas/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.09.29-00.50.27:238][  0]LogInit: Texture streaming: Enabled
+[2018.09.29-00.50.27:306][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.29-00.50.27:415][  0]LogInit: Transaction tracking system initialized
+[2018.09.29-00.50.27:567][  0]BlueprintLog: New page: Editor Load
+[2018.09.29-00.50.27:997][  0]LocalizationService: Localization service is disabled
+[2018.09.29-00.50.28:474][  0]LogConsoleResponse: Display: 
+[2018.09.29-00.50.28:598][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.29-00.50.28:598][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.29-00.50.28:598][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.29-00.50.28:803][  0]LogFileCache: Scanning file cache for directory 'D:/Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/' took 0.02s
+[2018.09.29-00.50.29:119][  0]SourceControl: Source control is disabled
+[2018.09.29-00.50.29:119][  0]Cmd: MAP LOAD FILE="../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.29-00.50.29:119][  0]LightingResults: New page: Lighting Build
+[2018.09.29-00.50.29:139][  0]MapCheck: New page: Map Check
+[2018.09.29-00.50.29:139][  0]LightingResults: New page: Lighting Build
+[2018.09.29-00.50.29:813][  0]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.09.29-00.50.29:813][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.09.29-00.50.29:866][  0]LogPackageName: SearchForPackageOnDisk took   0.054s, but failed to resolve FX_Meshes.
+[2018.09.29-00.50.29:866][  0]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2018.09.29-00.50.29:970][  0]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.09.29-00.50.29:970][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.09.29-00.50.30:026][  0]LogPackageName: SearchForPackageOnDisk took   0.057s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2018.09.29-00.50.30:026][  0]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2018.09.29-00.50.30:446][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.29-00.50.30:458][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.29-00.50.30:484][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.29-00.50.30:539][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.315ms to complete.
+[2018.09.29-00.50.30:539][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.421
+[2018.09.29-00.50.30:649][  0]LogCollectionManager: Loaded 0 collections in 0.000645 seconds
+[2018.09.29-00.50.30:733][  0]LogFileCache: Scanning file cache for directory 'D:/Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Saved/Collections/' took 0.01s
+[2018.09.29-00.50.30:733][  0]LogFileCache: Scanning file cache for directory 'D:/Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Developers/rogeriofreitas/Collections/' took 0.01s
+[2018.09.29-00.50.30:733][  0]LogFileCache: Scanning file cache for directory 'D:/Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Collections/' took 0.01s
+[2018.09.29-00.50.30:733][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.29-00.50.30:743][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2386 classes and 500 folders.
+[2018.09.29-00.50.30:777][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.09.29-00.50.30:805][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.09.29-00.50.30:828][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.09.29-00.50.30:857][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0007 seconds. Added 2 classes and 3 folders.
+[2018.09.29-00.50.30:874][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.29-00.50.30:876][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.29-00.50.30:880][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.29-00.50.30:961][  0]LogRenderer: Reallocating scene render targets to support 772x340 Format 10 NumSamples 1 (Frame:1).
+[2018.09.29-00.50.30:972][  0]LogStaticMesh: Allocated 510x171x64 distance field atlas = 10.6Mb, with 69 objects containing 5.5Mb backing data
+[2018.09.29-00.50.31:206][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.09.29-00.50.31:206][  0]LogLoad: (Engine Initialization) Total time: 11.97 seconds
+[2018.09.29-00.50.31:206][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.29-00.50.31:207][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.09.29-00.50.31:207][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.09.29-00.50.31:234][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.29-00.50.31:330][  2]LogAssetRegistry: Asset discovery search completed in 8.3601 seconds
+[2018.09.29-00.50.31:335][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.09.29-00.50.31:335][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2018.09.29-00.50.32:229][ 99]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.09.29-00.50.35:278][445]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.09.29-00.50.47:045][843]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.09.29-00.50.47:093][843]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2018.09.29-00.50.47:110][843]LogMaterial: Missing cached shader map for material NewMediaPlayer_Video_Mat, compiling. 
+[2018.09.29-00.50.47:312][843]LogMaterial: Missing cached shader map for material NewMediaPlayer_Video_Mat, compiling. 
+[2018.09.29-00.50.47:343][843]LogMaterial: Missing cached shader map for material NewMediaPlayer_Video_Mat, compiling. 
+[2018.09.29-00.50.47:386][843]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.29-00.50.47:416][843]LogSlate: Took 0.010212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.29-00.50.48:482][903]MaterialEditorStats: Base pass shader: 81 instructions
+[2018.09.29-00.50.48:482][903]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.50.48:482][903]MaterialEditorStats: Texture samplers: 2/16
+[2018.09.29-00.50.48:482][903]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.50.52:171][325]LogMaterial: Missing cached shader map for material NewMediaPlayer_Video_Mat, compiling. 
+[2018.09.29-00.50.52:197][325]LogMaterial: Missing cached shader map for material NewMediaPlayer_Video_Mat, compiling. 
+[2018.09.29-00.50.52:414][338]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.09.29-00.50.52:414][338]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.09.29-00.50.52:414][338]MaterialEditorStats: Texture samplers: 0/16
+[2018.09.29-00.51.04:342][714]LogMaterial: Missing cached shader map for material NewMediaPlayer_Video_Mat, compiling. 
+[2018.09.29-00.51.04:356][714]LogMaterial: Missing cached shader map for material NewMediaPlayer_Video_Mat, compiling. 
+[2018.09.29-00.51.04:387][714]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.29-00.51.04:586][725]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.09.29-00.51.04:586][725]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.09.29-00.51.04:586][725]MaterialEditorStats: Texture samplers: 0/16
+[2018.09.29-00.51.07:098][ 10]LogMaterial: Missing cached shader map for material NewMediaPlayer_Video_Mat, compiling. 
+[2018.09.29-00.51.07:301][ 30]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.09.29-00.51.07:301][ 30]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.51.07:301][ 30]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.51.07:301][ 30]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.51.08:681][193]LogMaterial: Missing cached shader map for material NewMediaPlayer_Video_Mat, compiling. 
+[2018.09.29-00.51.08:882][214]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.09.29-00.51.08:882][214]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.51.08:882][214]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.51.08:882][214]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.51.14:640][890]LogMaterial: Missing cached shader map for material NewMediaPlayer_Video_Mat, compiling. 
+[2018.09.29-00.51.14:855][912]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-00.51.14:855][912]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.51.14:855][912]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.51.14:855][912]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.52.16:453][864]LogMaterial: Missing cached shader map for material NewMediaPlayer_Video_Mat, compiling. 
+[2018.09.29-00.52.16:459][864]LogMaterial: Missing cached shader map for material NewMediaPlayer_Video_Mat, compiling. 
+[2018.09.29-00.52.16:841][903]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.09.29-00.52.16:841][903]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.09.29-00.52.16:841][903]MaterialEditorStats: Texture samplers: 0/16
+[2018.09.29-00.52.17:600][994]LogMaterial: Missing cached shader map for material NewMediaPlayer_Video_Mat, compiling. 
+[2018.09.29-00.52.17:621][994]LogMaterial: Missing cached shader map for material NewMediaPlayer_Video_Mat, compiling. 
+[2018.09.29-00.52.17:837][ 13]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-00.52.17:837][ 13]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.52.17:837][ 13]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.52.17:837][ 13]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.53.09:760][982]LogMaterial: Missing cached shader map for material NewMediaPlayer_Video_Mat, compiling. 
+[2018.09.29-00.53.09:821][982]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.29-00.53.09:849][982]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.29-00.53.09:855][982]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.29-00.53.10:185][ 10]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-00.53.10:185][ 10]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.53.10:185][ 10]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.53.10:185][ 10]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.53.13:611][411]LogMaterial: Missing cached shader map for material NewMediaPlayer_Video_Mat, compiling. 
+[2018.09.29-00.53.13:814][429]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-00.53.13:814][429]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.53.13:814][429]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.53.13:814][429]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.53.38:188][ 57]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.53.38:250][ 57]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.53.38:261][ 57]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.53.39:202][128]MaterialEditorStats: Base pass shader: 78 instructions
+[2018.09.29-00.53.39:202][128]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.09.29-00.53.39:202][128]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.53.46:287][737]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.53.46:315][737]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.29-00.53.46:347][737]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.29-00.53.47:037][793]MaterialEditorStats: Base pass shader: 78 instructions
+[2018.09.29-00.53.47:037][793]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.09.29-00.53.47:038][793]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.54.06:001][896]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.06:010][896]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.06:202][912]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.09.29-00.54.06:202][912]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.09.29-00.54.06:202][912]MaterialEditorStats: Texture samplers: 0/16
+[2018.09.29-00.54.09:091][257]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.09:101][257]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.29-00.54.09:309][275]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-00.54.09:309][275]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.54.09:309][275]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.54.09:309][275]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.54.14:064][841]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.14:069][841]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.14:278][861]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.09.29-00.54.14:278][861]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.09.29-00.54.14:278][861]MaterialEditorStats: Texture samplers: 0/16
+[2018.09.29-00.54.15:472][  4]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.15:476][  4]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.15:682][ 22]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-00.54.15:682][ 22]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.54.15:682][ 22]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.54.15:682][ 22]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.54.17:004][180]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.17:015][180]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.17:622][231]MaterialEditorStats: Base pass shader without light map: 47 instructions
+[2018.09.29-00.54.17:622][231]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.54.17:622][231]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.54.17:622][231]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.54.20:958][628]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.20:963][628]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.21:175][646]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-00.54.21:175][646]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.54.21:175][646]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.54.21:175][646]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.54.29:014][578]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.29:015][578]LogMaterial: Warning: Failed to compile Material /Engine/Transient.NewMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.29-00.54.29:015][578]LogMaterial: Warning: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Geometry/NewMediaPlayer_Video.NewMediaPlayer_Video
+[2018.09.29-00.54.29:039][578]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.29-00.54.29:065][578]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Geometry/NewMediaPlayer_Video.NewMediaPlayer_Video
+[2018.09.29-00.54.32:582][988]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.32:582][988]LogMaterial: Warning: Failed to compile Material /Engine/Transient.NewMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.29-00.54.32:582][988]LogMaterial: Warning: 	(Node TextureSample) TextureSample> Sampler type is Linear Grayscale, should be Color for /Game/Geometry/NewMediaPlayer_Video.NewMediaPlayer_Video
+[2018.09.29-00.54.32:589][988]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.29-00.54.32:614][988]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Linear Grayscale, should be Color for /Game/Geometry/NewMediaPlayer_Video.NewMediaPlayer_Video
+[2018.09.29-00.54.34:377][193]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.34:378][193]LogMaterial: Warning: Failed to compile Material /Engine/Transient.NewMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.29-00.54.34:378][193]LogMaterial: Warning: 	(Node TextureSample) TextureSample> Sampler type is Grayscale, should be Color for /Game/Geometry/NewMediaPlayer_Video.NewMediaPlayer_Video
+[2018.09.29-00.54.34:382][193]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.29-00.54.34:407][193]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Grayscale, should be Color for /Game/Geometry/NewMediaPlayer_Video.NewMediaPlayer_Video
+[2018.09.29-00.54.35:764][349]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.35:790][349]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.29-00.54.35:981][359]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-00.54.35:981][359]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.54.35:981][359]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.54.35:981][359]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.54.37:006][478]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.37:007][478]LogMaterial: Warning: Failed to compile Material /Engine/Transient.NewMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.29-00.54.37:007][478]LogMaterial: Warning: 	(Node TextureSample) TextureSample> Sampler type is Alpha, should be Color for /Game/Geometry/NewMediaPlayer_Video.NewMediaPlayer_Video
+[2018.09.29-00.54.37:011][478]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.29-00.54.37:037][478]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Alpha, should be Color for /Game/Geometry/NewMediaPlayer_Video.NewMediaPlayer_Video
+[2018.09.29-00.54.38:985][703]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.38:985][703]LogMaterial: Warning: Failed to compile Material /Engine/Transient.NewMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.29-00.54.38:985][703]LogMaterial: Warning: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/Geometry/NewMediaPlayer_Video.NewMediaPlayer_Video
+[2018.09.29-00.54.38:987][703]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.29-00.54.39:012][703]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/Geometry/NewMediaPlayer_Video.NewMediaPlayer_Video
+[2018.09.29-00.54.40:622][895]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.40:622][895]LogMaterial: Warning: Failed to compile Material /Engine/Transient.NewMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.29-00.54.40:622][895]LogMaterial: Warning: 	(Node TextureSample) TextureSample> Sampler type is Masks, should be Color for /Game/Geometry/NewMediaPlayer_Video.NewMediaPlayer_Video
+[2018.09.29-00.54.40:625][895]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.29-00.54.40:651][895]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Masks, should be Color for /Game/Geometry/NewMediaPlayer_Video.NewMediaPlayer_Video
+[2018.09.29-00.54.42:259][ 85]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.54.42:269][ 85]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.29-00.54.42:495][ 99]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-00.54.42:496][ 99]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.54.42:496][ 99]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.54.42:496][ 99]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.55.12:076][ 86]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.12:079][ 86]LogMaterial: Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (0 / 0)
+[2018.09.29-00.55.12:444][123]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.09.29-00.55.12:444][123]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.09.29-00.55.12:444][123]MaterialEditorStats: Texture samplers: 0/16
+[2018.09.29-00.55.19:906][906]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.19:911][906]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.09.29-00.55.19:942][906]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.09.29-00.55.20:115][919]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.09.29-00.55.20:115][919]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.09.29-00.55.20:115][919]MaterialEditorStats: Texture samplers: 0/16
+[2018.09.29-00.55.24:844][466]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2018.09.29-00.55.25:245][466]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.25:290][466]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.25:330][466]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.25:364][466]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.09.29-00.55.26:702][466]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.29-00.55.26:753][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/NewMaterial" FILE="../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Geometry/NewMaterial.uasset" SILENT=true
+[2018.09.29-00.55.26:773][466]LogSavePackage: Save=17.57ms
+[2018.09.29-00.55.26:773][466]LogSavePackage: Moving '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Saved/NewMaterial6E3D7FA5489D9FEA6FC60EBE91FB1ACD.tmp' to '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Geometry/NewMaterial.uasset'
+[2018.09.29-00.55.26:774][466]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Geometry/NewMaterial.uasset
+[2018.09.29-00.55.26:797][466]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.09.29-00.55.26:797][466]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.09.29-00.55.26:797][466]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.29-00.55.37:614][720]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.37:618][720]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.37:647][720]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.09.29-00.55.37:857][734]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.09.29-00.55.37:857][734]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.09.29-00.55.37:857][734]MaterialEditorStats: Texture samplers: 0/16
+[2018.09.29-00.55.41:485][159]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.41:678][176]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.09.29-00.55.41:678][176]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.55.41:678][176]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.55.41:678][176]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.55.44:889][559]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.45:096][580]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-00.55.45:096][580]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.55.45:096][580]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.55.45:096][580]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.55.46:199][712]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.46:199][712]LogMaterial: Warning: Failed to compile Material /Engine/Transient.NewMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.29-00.55.46:199][712]LogMaterial: Warning: 	(Node ComponentMask) Couldn't determine result type of component mask 0000
+[2018.09.29-00.55.46:200][712]MaterialEditorStats: Error: [SM5] (Node ComponentMask) Couldn't determine result type of component mask 0000
+[2018.09.29-00.55.48:770][ 17]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.48:973][ 34]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-00.55.48:974][ 34]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.55.48:974][ 34]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.55.48:974][ 34]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.55.49:726][124]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.49:726][124]LogMaterial: Warning: Failed to compile Material /Engine/Transient.NewMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.29-00.55.49:726][124]LogMaterial: Warning: 	(Node ComponentMask) Couldn't determine result type of component mask 0000
+[2018.09.29-00.55.49:727][124]MaterialEditorStats: Error: [SM5] (Node ComponentMask) Couldn't determine result type of component mask 0000
+[2018.09.29-00.55.50:285][188]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.50:498][207]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-00.55.50:498][207]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.55.50:498][207]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.55.50:498][207]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.55.51:139][282]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.51:139][282]LogMaterial: Warning: Failed to compile Material /Engine/Transient.NewMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.29-00.55.51:139][282]LogMaterial: Warning: 	(Node ComponentMask) Couldn't determine result type of component mask 0000
+[2018.09.29-00.55.51:140][282]MaterialEditorStats: Error: [SM5] (Node ComponentMask) Couldn't determine result type of component mask 0000
+[2018.09.29-00.55.51:691][345]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.51:691][345]LogMaterial: Warning: Failed to compile Material /Engine/Transient.NewMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.29-00.55.51:691][345]LogMaterial: Warning: 	(Node ComponentMask) Not enough components in (Local0.rgb: float3) for component mask 0001
+[2018.09.29-00.55.51:691][345]LogMaterial: Warning: 	(Node ComponentMask) Not enough components in (Local1.rgb: float3) for component mask 0001
+[2018.09.29-00.55.51:692][345]MaterialEditorStats: Error: [SM5] (Node ComponentMask) Not enough components in (Local0.rgb: float3) for component mask 0001
+[2018.09.29-00.55.51:692][345]MaterialEditorStats: Error: [SM5] (Node ComponentMask) Not enough components in (Local1.rgb: float3) for component mask 0001
+[2018.09.29-00.55.52:959][496]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.52:959][496]LogMaterial: Warning: Failed to compile Material /Engine/Transient.NewMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.29-00.55.52:959][496]LogMaterial: Warning: 	(Node ComponentMask) Not enough components in (Local0.rgb: float3) for component mask 1001
+[2018.09.29-00.55.52:959][496]LogMaterial: Warning: 	(Node ComponentMask) Not enough components in (Local1.rgb: float3) for component mask 1001
+[2018.09.29-00.55.52:960][496]MaterialEditorStats: Error: [SM5] (Node ComponentMask) Not enough components in (Local0.rgb: float3) for component mask 1001
+[2018.09.29-00.55.52:960][496]MaterialEditorStats: Error: [SM5] (Node ComponentMask) Not enough components in (Local1.rgb: float3) for component mask 1001
+[2018.09.29-00.55.54:935][732]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.55:138][748]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-00.55.55:138][748]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.55.55:138][748]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-00.55.55:138][748]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.55.57:216][995]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2018.09.29-00.55.57:602][995]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.57:631][995]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.57:665][995]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.09.29-00.55.57:690][995]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.09.29-00.55.59:298][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/NewMaterial" FILE="../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Geometry/NewMaterial.uasset" SILENT=true
+[2018.09.29-00.55.59:311][995]LogSavePackage: Save=8.70ms
+[2018.09.29-00.55.59:311][995]LogSavePackage: Moving '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Saved/NewMaterial141CB01A4E015690333CB7BB367739E4.tmp' to '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Geometry/NewMaterial.uasset'
+[2018.09.29-00.55.59:311][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Geometry/NewMaterial.uasset
+[2018.09.29-00.55.59:324][995]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-00.55.59:324][995]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-00.55.59:324][995]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-00.55.59:324][995]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-00.56.02:428][346]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.09.29-00.56.21:931][670]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.09.29-00.56.21:983][670]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2018.09.29-00.56.36:156][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2018.09.29-00.56.37:590][301]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.09.29-00.56.51:577][969]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.09.29-00.57.43:964][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2018.09.29-00.58.29:414][716]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.09.29-00.58.50:082][160]Cmd: DUPLICATE
+[2018.09.29-00.58.50:082][160]Cmd: ACTOR DUPLICATE
+[2018.09.29-00.58.54:073][627]EditorErrors: New page: Actor attachment
+[2018.09.29-00.59.09:983][459]Cmd: DUPLICATE
+[2018.09.29-00.59.09:983][459]Cmd: ACTOR DUPLICATE
+[2018.09.29-00.59.13:655][895]EditorErrors: New page: Actor attachment
+[2018.09.29-00.59.54:622][758]Cmd: TRANSACTION UNDO
+[2018.09.29-00.59.54:622][758]LogEditorTransaction: Undo Edit Light Color
+[2018.09.29-00.59.56:576][971]Cmd: TRANSACTION UNDO
+[2018.09.29-00.59.56:576][971]LogEditorTransaction: Undo Edit Light Color
+[2018.09.29-00.59.57:466][ 77]Cmd: TRANSACTION UNDO
+[2018.09.29-00.59.57:466][ 77]LogEditorTransaction: Undo Edit Light Function Material
+[2018.09.29-01.00.06:372][122]LogMaterial: Missing cached shader map for material NewMaterial1, compiling. 
+[2018.09.29-01.00.09:050][404]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2018.09.29-01.00.14:197][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/NewMaterial1" FILE="../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Geometry/NewMaterial1.uasset" SILENT=true
+[2018.09.29-01.00.14:209][842]LogSavePackage: Save=11.44ms
+[2018.09.29-01.00.14:209][842]LogSavePackage: Moving '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Saved/NewMaterial10C7D560847E5D1B9367F29B08AE3E968.tmp' to '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Geometry/NewMaterial1.uasset'
+[2018.09.29-01.00.14:210][842]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Geometry/NewMaterial1.uasset
+[2018.09.29-01.00.14:228][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/NewMaterial2" FILE="../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Geometry/NewMaterial2.uasset" SILENT=true
+[2018.09.29-01.00.14:239][842]LogSavePackage: Save=10.90ms
+[2018.09.29-01.00.14:239][842]LogSavePackage: Moving '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Saved/NewMaterial25E0ACF3A4026DD09A9DDFF9DF22681ED.tmp' to '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Geometry/NewMaterial2.uasset'
+[2018.09.29-01.00.14:240][842]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Geometry/NewMaterial2.uasset
+[2018.09.29-01.00.14:427][842]LogSavePackage: Save=103.59ms
+[2018.09.29-01.00.14:427][842]LogSavePackage: Moving '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Saved/ThirdPersonExampleMapA6457964489AD2ECF79FF7AE6DBA3B7D.tmp' to '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.29-01.00.14:429][842]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.09.29-01.00.14:452][842]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.209
+[2018.09.29-01.00.16:297][ 59]LogMaterial: Missing cached shader map for material NewMaterial1, compiling. 
+[2018.09.29-01.00.16:356][ 59]LogMaterial: Missing cached shader map for material NewMaterial1, compiling. 
+[2018.09.29-01.00.16:361][ 59]LogMaterial: Missing cached shader map for material NewMaterial1, compiling. 
+[2018.09.29-01.00.16:389][ 59]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.09.29-01.00.16:595][ 66]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-01.00.16:595][ 66]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-01.00.16:595][ 66]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-01.00.16:595][ 66]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.00.20:687][418]LogMaterial: Missing cached shader map for material NewMaterial1, compiling. 
+[2018.09.29-01.00.20:900][435]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.09.29-01.00.20:900][435]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-01.00.20:900][435]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-01.00.20:900][435]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.00.21:285][473]LogMaterial: Missing cached shader map for material NewMaterial1, compiling. 
+[2018.09.29-01.00.21:501][490]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-01.00.21:501][490]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-01.00.21:501][490]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-01.00.21:501][490]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.00.23:580][698]LogMaterialEditor: Saving and Compiling material NewMaterial1
+[2018.09.29-01.00.23:981][698]LogMaterial: Missing cached shader map for material NewMaterial1, compiling. 
+[2018.09.29-01.00.24:024][698]LogMaterial: Missing cached shader map for material NewMaterial1, compiling. 
+[2018.09.29-01.00.24:056][698]LogMaterial: Missing cached shader map for material NewMaterial1, compiling. 
+[2018.09.29-01.00.24:087][698]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.09.29-01.00.25:796][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/NewMaterial1" FILE="../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Geometry/NewMaterial1.uasset" SILENT=true
+[2018.09.29-01.00.25:821][698]LogSavePackage: Save=19.40ms
+[2018.09.29-01.00.25:821][698]LogSavePackage: Moving '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Saved/NewMaterial1A6BC3BEB4ECBACBF4D9D74879CA53755.tmp' to '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Geometry/NewMaterial1.uasset'
+[2018.09.29-01.00.25:822][698]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Geometry/NewMaterial1.uasset
+[2018.09.29-01.00.25:840][698]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-01.00.25:840][698]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-01.00.25:840][698]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-01.00.25:840][698]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.00.28:757][ 10]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2018.09.29-01.00.28:845][ 10]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2018.09.29-01.00.28:849][ 10]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2018.09.29-01.00.28:877][ 10]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.09.29-01.00.29:067][ 16]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-01.00.29:067][ 16]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-01.00.29:067][ 16]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-01.00.29:067][ 16]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.00.32:342][365]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2018.09.29-01.00.32:342][365]LogMaterial: Warning: Failed to compile Material /Engine/Transient.NewMaterial2 for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.29-01.00.32:342][365]LogMaterial: Warning: 	(Node ComponentMask) Couldn't determine result type of component mask 0000
+[2018.09.29-01.00.32:343][365]MaterialEditorStats: Error: [SM5] (Node ComponentMask) Couldn't determine result type of component mask 0000
+[2018.09.29-01.00.32:939][428]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2018.09.29-01.00.33:150][444]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-01.00.33:150][444]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-01.00.33:150][444]MaterialEditorStats: Texture samplers: 1/16
+[2018.09.29-01.00.33:150][444]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.00.34:388][577]LogMaterialEditor: Saving and Compiling material NewMaterial2
+[2018.09.29-01.00.34:775][577]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2018.09.29-01.00.34:835][577]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2018.09.29-01.00.34:868][577]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2018.09.29-01.00.34:895][577]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.09.29-01.00.36:452][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/NewMaterial2" FILE="../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Geometry/NewMaterial2.uasset" SILENT=true
+[2018.09.29-01.00.36:463][577]LogSavePackage: Save=8.42ms
+[2018.09.29-01.00.36:463][577]LogSavePackage: Moving '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Saved/NewMaterial2E88031464AA70255A19A90A19B25707D.tmp' to '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Geometry/NewMaterial2.uasset'
+[2018.09.29-01.00.36:464][577]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Geometry/NewMaterial2.uasset
+[2018.09.29-01.00.36:475][577]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2018.09.29-01.00.36:475][577]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-01.00.36:475][577]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-01.00.36:475][577]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-01.00.39:847][941]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.09.29-01.00.39:895][941]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2018.09.29-01.00.52:408][390]Cmd: TRANSACTION UNDO
+[2018.09.29-01.00.52:409][390]LogEditorTransaction: Undo Move Actors
+[2018.09.29-01.00.53:048][446]Cmd: TRANSACTION UNDO
+[2018.09.29-01.00.53:049][446]LogEditorTransaction: Undo Move Actors
+[2018.09.29-01.02.19:164][734]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-01.02.19:338][734]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.02.19:345][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-01.02.19:371][734]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 28, 2018, 7:02:19 PM)
+[2018.09.29-01.02.19:372][734]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.29-01.02.19:399][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027547s)
+[2018.09.29-01.02.19:400][734]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.29-01.02.19:401][734]LogPlayLevel: PIE: World Init took: (0.001208s)
+[2018.09.29-01.02.19:401][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029614s)
+[2018.09.29-01.02.19:423][734]LogInit: XAudio2 using 'SAMSUNG-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.02.19:428][734]LogInit: FAudioDevice initialized.
+[2018.09.29-01.02.19:544][734]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.29-01.02.19:585][734]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.28-22.02.19
+[2018.09.29-01.02.19:620][734]LogWorld: Bringing up level for play took: 0.044600
+[2018.09.29-01.02.19:659][734]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.02.19:751][734]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.09.29-01.02.19:761][734]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.774
+[2018.09.29-01.02.19:761][734]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.02.19:866][734]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.09.29-01.02.26:399][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.02.26:485][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.02.35:250][448]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 113 classes and 0 folders.
+[2018.09.29-01.02.44:732][443]LogSlate: Took 0.009089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.29-01.02.57:103][662]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.29-01.04.25:106][784]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.29-01.04.25:108][784]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] This blueprint (self) is not a MediaSoundWave, therefore ' Target ' must have a connection.
+[2018.09.29-01.04.25:109][784]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] Variable node  Get MediaPlayer  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.09.29-01.04.25:169][784]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [0845.93] Compile of PersistentLevel.ThirdPersonExampleMap failed. 2 Fatal Issue(s) 0 Warning(s) [in 63 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.09.29-01.04.46:478][247]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.29-01.04.46:481][247]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] This blueprint (self) is not a MediaPlayer, therefore ' Target ' must have a connection.
+[2018.09.29-01.04.46:497][247]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [0867.26] Compile of PersistentLevel.ThirdPersonExampleMap failed. 1 Fatal Issue(s) 0 Warning(s) [in 19 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.09.29-01.04.54:183][151]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.29-01.04.54:185][151]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The type of  Object  is undetermined.  Connect something to  Cast To MediaPlayer  to imply a specific type.
+[2018.09.29-01.04.54:186][151]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.09.29-01.04.54:203][151]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [0874.96] Compile of PersistentLevel.ThirdPersonExampleMap failed. 2 Fatal Issue(s) 0 Warning(s) [in 19 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.09.29-01.05.08:648][836]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.29-01.05.08:660][836]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] 'Media Player' does not inherit from 'Media Playlist' ( Cast To MediaPlayer  would always fail).
+[2018.09.29-01.05.08:660][836]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] This blueprint (self) is not a MediaPlayer, therefore ' Target ' must have a connection.
+[2018.09.29-01.05.08:660][836]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] Variable node  Get Playlist  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.09.29-01.05.08:678][836]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [0889.44] Compile of PersistentLevel.ThirdPersonExampleMap failed. 2 Fatal Issue(s) 1 Warning(s) [in 30 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.09.29-01.05.16:892][790]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.29-01.05.35:859][  4]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.09.29-01.05.35:899][  4]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2018.09.29-01.06.02:654][147]LogSavePackage: Save=102.98ms
+[2018.09.29-01.06.02:654][147]LogSavePackage: Moving '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Saved/ThirdPersonExampleMap6E56FB604F1BEA731751D292647C70FC.tmp' to '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.29-01.06.02:655][147]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.09.29-01.06.02:677][147]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.213
+[2018.09.29-01.06.07:908][764]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight1)
+[2018.09.29-01.07.15:620][570]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.29-01.07.15:623][570]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] This blueprint (self) is not a MediaPlayer, therefore ' Target ' must have a connection.
+[2018.09.29-01.07.15:642][570]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [1016.40] Compile of PersistentLevel.ThirdPersonExampleMap failed. 1 Fatal Issue(s) 0 Warning(s) [in 22 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.09.29-01.07.28:061][959]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.29-01.07.28:064][959]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] This blueprint (self) is not a MediaPlayer, therefore ' Target ' must have a connection.
+[2018.09.29-01.07.28:081][959]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [1028.84] Compile of PersistentLevel.ThirdPersonExampleMap failed. 1 Fatal Issue(s) 0 Warning(s) [in 20 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.09.29-01.07.45:686][947]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.29-01.07.47:078][104]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-01.07.47:095][104]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.07.47:095][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-01.07.47:095][104]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 28, 2018, 7:07:47 PM)
+[2018.09.29-01.07.47:095][104]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.29-01.07.47:117][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021463s)
+[2018.09.29-01.07.47:118][104]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.29-01.07.47:118][104]LogPlayLevel: PIE: World Init took: (0.001440s)
+[2018.09.29-01.07.47:119][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023223s)
+[2018.09.29-01.07.47:140][104]LogInit: XAudio2 using 'SAMSUNG-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.07.47:145][104]LogInit: FAudioDevice initialized.
+[2018.09.29-01.07.47:188][104]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.29-01.07.47:192][104]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.28-22.07.47
+[2018.09.29-01.07.47:192][104]LogWorld: Bringing up level for play took: 0.003142
+[2018.09.29-01.07.47:193][104]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.07.47:193][104]LogMediaUtils: Error: Cannot play file://D:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/NewMediaPlayer, because none of the enabled media player plug-ins support it:
+[2018.09.29-01.07.47:193][104]LogMediaUtils: Error: | AndroidMedia (only available on Android, but not on Windows)
+[2018.09.29-01.07.47:193][104]LogMediaUtils: Error: | AvfMedia (only available on iOS, Mac, but not on Windows)
+[2018.09.29-01.07.47:193][104]LogMediaUtils: Error: | WmfMedia (URI scheme or file extension not supported)
+[2018.09.29-01.07.47:198][104]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.211
+[2018.09.29-01.07.47:198][104]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.07.49:542][352]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.07.49:600][352]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.08.29:589][ 34]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.29-01.08.56:154][ 54]LogSlate: Took 0.014170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.09.29-01.10.32:153][825]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.29-01.10.32:157][825]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] 'Media Player' does not inherit from 'File Media Source' ( Cast To MediaPlayer  would always fail).
+[2018.09.29-01.10.32:157][825]LogProperty: Warning: Serialized Class /Script/MediaAssets.MediaPlayer for a property of Class /Script/MediaAssets.FileMediaSource. Reference will be nullptred.
+    Property = ObjectProperty /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:NewVar_0
+    Item = MediaPlayer /Game/Geometry/NewMediaPlayer.NewMediaPlayer
+[2018.09.29-01.10.32:176][825]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [1212.94] Compile of PersistentLevel.ThirdPersonExampleMap successful, but with 1 Warning(s) [in 23 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.09.29-01.10.33:844][ 20]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-01.10.33:859][ 20]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.10.33:859][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-01.10.33:859][ 20]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 28, 2018, 7:10:33 PM)
+[2018.09.29-01.10.33:859][ 20]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.29-01.10.33:881][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022123s)
+[2018.09.29-01.10.33:882][ 20]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.29-01.10.33:882][ 20]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2018.09.29-01.10.33:882][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023462s)
+[2018.09.29-01.10.33:905][ 20]LogInit: XAudio2 using 'SAMSUNG-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.10.33:909][ 20]LogInit: FAudioDevice initialized.
+[2018.09.29-01.10.33:945][ 20]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.29-01.10.33:949][ 20]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.28-22.10.33
+[2018.09.29-01.10.33:949][ 20]LogWorld: Bringing up level for play took: 0.002925
+[2018.09.29-01.10.33:950][ 20]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.10.33:954][ 20]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.968
+[2018.09.29-01.10.33:954][ 20]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.10.38:447][499]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.10.38:502][499]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.11.14:877][531]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.29-01.11.15:913][649]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-01.11.15:927][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.11.15:927][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-01.11.15:927][649]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 28, 2018, 7:11:15 PM)
+[2018.09.29-01.11.15:927][649]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.29-01.11.15:950][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022450s)
+[2018.09.29-01.11.15:951][649]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.29-01.11.15:951][649]LogPlayLevel: PIE: World Init took: (0.001539s)
+[2018.09.29-01.11.15:952][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024332s)
+[2018.09.29-01.11.15:974][649]LogInit: XAudio2 using 'SAMSUNG-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.11.15:978][649]LogInit: FAudioDevice initialized.
+[2018.09.29-01.11.16:014][649]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.29-01.11.16:017][649]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.28-22.11.16
+[2018.09.29-01.11.16:018][649]LogWorld: Bringing up level for play took: 0.002991
+[2018.09.29-01.11.16:018][649]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.11.16:019][649]LogScript: Warning: Accessed None trying to read property NewVar_0
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_0
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0021
+[2018.09.29-01.11.16:019][649]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NewVar_0 from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: Open Source in graph: EventGraph in object: ThirdPersonExampleMap with description: Accessed None trying to read property NewVar_0
+[2018.09.29-01.11.16:022][649]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.036
+[2018.09.29-01.11.16:022][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.11.18:167][882]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.11.18:223][882]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.11.25:943][720]LogSavePackage: Save=110.52ms
+[2018.09.29-01.11.25:943][720]LogSavePackage: Moving '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Saved/ThirdPersonExampleMapF4C6AB4D42DED3A09D030D9CDB15716A.tmp' to '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.29-01.11.25:945][720]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.09.29-01.11.25:965][720]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.220
+[2018.09.29-01.11.28:140][967]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-01.11.28:154][967]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.11.28:154][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-01.11.28:154][967]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 28, 2018, 7:11:28 PM)
+[2018.09.29-01.11.28:154][967]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.29-01.11.28:177][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022147s)
+[2018.09.29-01.11.28:178][967]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.29-01.11.28:178][967]LogPlayLevel: PIE: World Init took: (0.001360s)
+[2018.09.29-01.11.28:178][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023820s)
+[2018.09.29-01.11.28:200][967]LogInit: XAudio2 using 'SAMSUNG-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.11.28:204][967]LogInit: FAudioDevice initialized.
+[2018.09.29-01.11.28:241][967]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.29-01.11.28:244][967]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.28-22.11.28
+[2018.09.29-01.11.28:245][967]LogWorld: Bringing up level for play took: 0.002648
+[2018.09.29-01.11.28:245][967]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.11.28:245][967]LogScript: Warning: Accessed None trying to read property NewVar_0
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_1
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0021
+[2018.09.29-01.11.28:246][967]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NewVar_0 from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: Open Source in graph: EventGraph in object: ThirdPersonExampleMap with description: Accessed None trying to read property NewVar_0
+[2018.09.29-01.11.28:249][967]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.737
+[2018.09.29-01.11.28:249][967]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.11.29:943][146]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.11.30:003][146]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.11.42:571][594]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-01.11.42:585][594]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.11.42:585][594]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.29-01.11.42:586][594]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2018.09.29-01.11.42:607][594]LogPlayLevel: PlayLevel: Blueprint regeneration took 21 ms (1 blueprints)
+[2018.09.29-01.11.42:607][594]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 28, 2018, 7:11:42 PM)
+[2018.09.29-01.11.42:607][594]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.29-01.11.42:629][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021862s)
+[2018.09.29-01.11.42:632][594]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.29-01.11.42:632][594]LogPlayLevel: PIE: World Init took: (0.002338s)
+[2018.09.29-01.11.42:632][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024516s)
+[2018.09.29-01.11.42:654][594]LogInit: XAudio2 using 'SAMSUNG-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.11.42:658][594]LogInit: FAudioDevice initialized.
+[2018.09.29-01.11.42:693][594]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.29-01.11.42:697][594]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.28-22.11.42
+[2018.09.29-01.11.42:697][594]LogWorld: Bringing up level for play took: 0.003002
+[2018.09.29-01.11.42:697][594]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.11.42:698][594]LogScript: Warning: Accessed None trying to read property NewVar_0
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_0
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0021
+[2018.09.29-01.11.42:698][594]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NewVar_0 from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: Open File in graph: EventGraph in object: ThirdPersonExampleMap with description: Accessed None trying to read property NewVar_0
+[2018.09.29-01.11.42:702][594]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.284
+[2018.09.29-01.11.42:702][594]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.11.44:734][811]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.11.44:790][811]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.11.58:019][314]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-01.11.58:033][314]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.11.58:033][314]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.29-01.11.58:034][314]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2018.09.29-01.11.58:054][314]LogPlayLevel: PlayLevel: Blueprint regeneration took 21 ms (1 blueprints)
+[2018.09.29-01.11.58:054][314]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 28, 2018, 7:11:58 PM)
+[2018.09.29-01.11.58:055][314]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.29-01.11.58:077][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022116s)
+[2018.09.29-01.11.58:078][314]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.29-01.11.58:079][314]LogPlayLevel: PIE: World Init took: (0.001871s)
+[2018.09.29-01.11.58:079][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024395s)
+[2018.09.29-01.11.58:101][314]LogInit: XAudio2 using 'SAMSUNG-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.11.58:105][314]LogInit: FAudioDevice initialized.
+[2018.09.29-01.11.58:143][314]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.29-01.11.58:146][314]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.28-22.11.58
+[2018.09.29-01.11.58:146][314]LogWorld: Bringing up level for play took: 0.002794
+[2018.09.29-01.11.58:147][314]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.11.58:147][314]LogScript: Warning: Accessed None trying to read property NewVar_0
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_1
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0021
+[2018.09.29-01.11.58:147][314]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NewVar_0 from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: Play in graph: EventGraph in object: ThirdPersonExampleMap with description: Accessed None trying to read property NewVar_0
+[2018.09.29-01.11.58:147][314]LogScript: Warning: Accessed None trying to read property NewVar_0
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_1
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:004D
+[2018.09.29-01.11.58:148][314]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NewVar_0 from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: Open File in graph: EventGraph in object: ThirdPersonExampleMap with description: Accessed None trying to read property NewVar_0
+[2018.09.29-01.11.58:151][314]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.835
+[2018.09.29-01.11.58:151][314]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.11.59:819][487]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.11.59:871][487]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.12.10:613][712]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.29-01.12.11:454][807]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-01.12.11:468][807]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.12.11:468][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-01.12.11:468][807]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 28, 2018, 7:12:11 PM)
+[2018.09.29-01.12.11:468][807]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.29-01.12.11:490][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021422s)
+[2018.09.29-01.12.11:491][807]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.29-01.12.11:491][807]LogPlayLevel: PIE: World Init took: (0.001023s)
+[2018.09.29-01.12.11:491][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022758s)
+[2018.09.29-01.12.11:513][807]LogInit: XAudio2 using 'SAMSUNG-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.12.11:517][807]LogInit: FAudioDevice initialized.
+[2018.09.29-01.12.11:554][807]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.29-01.12.11:557][807]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.28-22.12.11
+[2018.09.29-01.12.11:558][807]LogWorld: Bringing up level for play took: 0.002755
+[2018.09.29-01.12.11:558][807]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.12.11:558][807]LogScript: Warning: Accessed None trying to read property NewVar_0
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_0
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0021
+[2018.09.29-01.12.11:559][807]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NewVar_0 from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: Open File in graph: EventGraph in object: ThirdPersonExampleMap with description: Accessed None trying to read property NewVar_0
+[2018.09.29-01.12.11:559][807]LogScript: Warning: Accessed None trying to read property NewVar_0
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_0
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:004F
+[2018.09.29-01.12.11:559][807]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NewVar_0 from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: Play in graph: EventGraph in object: ThirdPersonExampleMap with description: Accessed None trying to read property NewVar_0
+[2018.09.29-01.12.11:563][807]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.577
+[2018.09.29-01.12.11:563][807]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.12.12:998][956]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.12.13:052][956]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.12.50:214][238]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.29-01.12.51:104][339]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-01.12.51:120][339]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.12.51:120][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-01.12.51:120][339]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 28, 2018, 7:12:51 PM)
+[2018.09.29-01.12.51:120][339]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.29-01.12.51:141][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021193s)
+[2018.09.29-01.12.51:143][339]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.29-01.12.51:143][339]LogPlayLevel: PIE: World Init took: (0.001778s)
+[2018.09.29-01.12.51:143][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023295s)
+[2018.09.29-01.12.51:164][339]LogInit: XAudio2 using 'SAMSUNG-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.12.51:169][339]LogInit: FAudioDevice initialized.
+[2018.09.29-01.12.51:208][339]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.29-01.12.51:212][339]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.28-22.12.51
+[2018.09.29-01.12.51:212][339]LogWorld: Bringing up level for play took: 0.002881
+[2018.09.29-01.12.51:212][339]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.12.51:213][339]LogScript: Warning: Accessed None trying to read property NewVar_0
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_1
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0021
+[2018.09.29-01.12.51:213][339]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NewVar_0 from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: Open Source in graph: EventGraph in object: ThirdPersonExampleMap with description: Accessed None trying to read property NewVar_0
+[2018.09.29-01.12.51:213][339]LogScript: Warning: Accessed None trying to read property NewVar_0
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_1
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0056
+[2018.09.29-01.12.51:213][339]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NewVar_0 from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: Play in graph: EventGraph in object: ThirdPersonExampleMap with description: Accessed None trying to read property NewVar_0
+[2018.09.29-01.12.51:217][339]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.23
+[2018.09.29-01.12.51:217][339]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.12.57:420][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.12.57:475][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.14.20:746][903]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.29-01.14.21:696][  0]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-01.14.21:710][  0]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.14.21:710][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-01.14.21:710][  0]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 28, 2018, 7:14:21 PM)
+[2018.09.29-01.14.21:710][  0]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.29-01.14.21:733][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022367s)
+[2018.09.29-01.14.21:734][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.29-01.14.21:734][  0]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2018.09.29-01.14.21:734][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023953s)
+[2018.09.29-01.14.21:757][  0]LogInit: XAudio2 using 'SAMSUNG-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.14.21:763][  0]LogInit: FAudioDevice initialized.
+[2018.09.29-01.14.21:803][  0]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.29-01.14.21:806][  0]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.28-22.14.21
+[2018.09.29-01.14.21:807][  0]LogWorld: Bringing up level for play took: 0.002892
+[2018.09.29-01.14.21:807][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.14.21:812][  0]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.826
+[2018.09.29-01.14.21:812][  0]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.14.51:061][641]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.14.51:126][641]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.14.53:844][898]LogSavePackage: Save=110.38ms
+[2018.09.29-01.14.53:844][898]LogSavePackage: Moving '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Saved/ThirdPersonExampleMap6D87FD0044910021AF0992BBFF893736.tmp' to '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.29-01.14.53:845][898]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.09.29-01.14.53:867][898]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.214
+[2018.09.29-01.14.55:652][ 98]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight1)
+[2018.09.29-01.15.01:922][844]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-01.15.01:937][844]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.15.01:937][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-01.15.01:937][844]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 28, 2018, 7:15:01 PM)
+[2018.09.29-01.15.01:937][844]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.29-01.15.01:958][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020182s)
+[2018.09.29-01.15.01:959][844]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.29-01.15.01:959][844]LogPlayLevel: PIE: World Init took: (0.001521s)
+[2018.09.29-01.15.01:959][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022025s)
+[2018.09.29-01.15.01:981][844]LogInit: XAudio2 using 'SAMSUNG-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.15.01:986][844]LogInit: FAudioDevice initialized.
+[2018.09.29-01.15.02:021][844]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.29-01.15.02:024][844]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.28-22.15.02
+[2018.09.29-01.15.02:024][844]LogWorld: Bringing up level for play took: 0.002832
+[2018.09.29-01.15.02:025][844]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.15.02:028][844]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.042
+[2018.09.29-01.15.02:028][844]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.15.10:942][898]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.15.11:000][898]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.15.20:903][ 79]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2018.09.29-01.15.46:177][ 92]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-01.15.46:191][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.15.46:191][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-01.15.46:191][ 92]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 28, 2018, 7:15:46 PM)
+[2018.09.29-01.15.46:191][ 92]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.29-01.15.46:213][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021853s)
+[2018.09.29-01.15.46:215][ 92]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.29-01.15.46:215][ 92]LogPlayLevel: PIE: World Init took: (0.001618s)
+[2018.09.29-01.15.46:215][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023808s)
+[2018.09.29-01.15.46:237][ 92]LogInit: XAudio2 using 'SAMSUNG-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-01.15.46:241][ 92]LogInit: FAudioDevice initialized.
+[2018.09.29-01.15.46:281][ 92]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.29-01.15.46:285][ 92]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.28-22.15.46
+[2018.09.29-01.15.46:286][ 92]LogWorld: Bringing up level for play took: 0.003542
+[2018.09.29-01.15.46:286][ 92]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-01.15.46:289][ 92]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.697
+[2018.09.29-01.15.46:290][ 92]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.16.41:871][741]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.16.41:940][741]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.29-01.16.44:927][ 76]LogSavePackage: Save=111.97ms
+[2018.09.29-01.16.44:927][ 76]LogSavePackage: Moving '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Saved/ThirdPersonExampleMap103B3AAF40C24635C64B3CB8DDA7498A.tmp' to '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.29-01.16.44:929][ 76]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.09.29-01.16.45:105][ 76]LogSavePackage: Save=150.60ms
+[2018.09.29-01.16.45:105][ 76]LogSavePackage: Moving '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Saved/ThirdPersonExampleMap_BuiltDataCB509E004BEB0D5A3D3F1590C5926DB8.tmp' to '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.29-01.16.45:106][ 76]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.09.29-01.16.46:689][236]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.29-01.16.46:877][237]Cmd: QUIT_EDITOR
+[2018.09.29-01.16.47:257][237]LogExit: Preparing to exit.
+[2018.09.29-01.16.47:824][237]LogDirectoryWatcher: A directory notification for 'D:/Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/' was aborted.
+[2018.09.29-01.16.47:870][237]LogExit: Editor shut down
+[2018.09.29-01.16.47:873][237]LogExit: Transaction tracking system shut down
+[2018.09.29-01.16.48:011][237]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.09.29-01.16.48:011][237]LogDirectoryWatcher: A directory notification for '../../../../../../Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/' was aborted.
+[2018.09.29-01.16.48:011][237]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.09.29-01.16.48:011][237]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.09.29-01.16.48:011][237]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.09.29-01.16.48:091][237]LogExit: Object subsystem successfully closed.
+[2018.09.29-01.16.48:107][237]LogD3D11RHI: Shutdown
+[2018.09.29-01.16.48:107][237]LogD3D11RHI: CleanupD3DDevice
+[2018.09.29-01.16.48:109][237]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.29-01.16.48:123][237]LogModuleManager: Shutting down and abandoning module BlueprintGraph (540)
+[2018.09.29-01.16.48:123][237]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (538)
+[2018.09.29-01.16.48:130][237]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (536)
+[2018.09.29-01.16.48:130][237]LogModuleManager: Shutting down and abandoning module MaterialEditor (534)
+[2018.09.29-01.16.48:130][237]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (532)
+[2018.09.29-01.16.48:130][237]LogModuleManager: Shutting down and abandoning module WorldBrowser (530)
+[2018.09.29-01.16.48:130][237]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.09.29-01.16.48:130][237]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.09.29-01.16.48:130][237]LogDirectoryWatcher: A directory notification for 'D:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2018.09.29-01.16.48:131][237]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.09.29-01.16.48:131][237]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.09.29-01.16.48:131][237]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.09.29-01.16.48:131][237]LogDirectoryWatcher: A directory notification for 'D:/Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Collections/' was aborted.
+[2018.09.29-01.16.48:132][237]LogDirectoryWatcher: A directory notification for 'D:/Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Content/Developers/rogeriofreitas/Collections/' was aborted.
+[2018.09.29-01.16.48:132][237]LogDirectoryWatcher: A directory notification for 'D:/Users/rogerio freitas/Documents/Unreal Projects/TEXTURAS/Saved/Collections/' was aborted.
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module Media (477)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.09.29-01.16.48:132][237]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.09.29-01.16.48:133][237]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.09.29-01.16.48:395][237]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.09.29-01.16.48:395][237]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.09.29-01.16.48:395][237]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.09.29-01.16.48:395][237]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.09.29-01.16.48:395][237]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.09.29-01.16.48:395][237]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.09.29-01.16.48:396][237]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.09.29-01.16.48:396][237]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.09.29-01.16.48:396][237]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.09.29-01.16.48:396][237]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.09.29-01.16.48:396][237]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.09.29-01.16.48:396][237]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.09.29-01.16.48:396][237]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.09.29-01.16.48:396][237]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.09.29-01.16.48:396][237]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.09.29-01.16.48:396][237]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.09.29-01.16.48:396][237]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.09.29-01.16.48:396][237]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.09.29-01.16.48:396][237]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.09.29-01.16.48:396][237]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.09.29-01.16.48:396][237]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.09.29-01.16.48:396][237]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.09.29-01.16.48:396][237]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.09.29-01.16.48:396][237]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.09.29-01.16.48:440][237]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.09.29-01.16.48:440][237]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.09.29-01.16.48:440][237]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.09.29-01.16.48:440][237]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.09.29-01.16.48:440][237]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.09.29-01.16.48:440][237]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.09.29-01.16.48:440][237]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.09.29-01.16.48:440][237]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.09.29-01.16.48:440][237]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.09.29-01.16.48:440][237]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.09.29-01.16.48:453][237]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2018.09.29-01.16.48:454][237]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2018.09.29-01.16.48:455][237]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2018.09.29-01.16.48:499][237]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2018.09.29-01.16.48:499][237]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2018.09.29-01.16.48:499][237]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2018.09.29-01.16.48:499][237]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2018.09.29-01.16.48:500][237]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2018.09.29-01.16.48:501][237]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2018.09.29-01.16.48:501][237]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2018.09.29-01.16.48:501][237]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2018.09.29-01.16.48:501][237]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2018.09.29-01.16.48:501][237]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2018.09.29-01.16.48:501][237]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.09.29-01.16.48:502][237]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.09.29-01.16.48:502][237]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.09.29-01.16.48:502][237]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.09.29-01.16.48:503][237]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.09.29-01.16.48:503][237]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.09.29-01.16.48:503][237]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.09.29-01.16.48:503][237]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.09.29-01.16.48:503][237]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.09.29-01.16.48:503][237]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.09.29-01.16.48:503][237]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.09.29-01.16.48:503][237]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.09.29-01.16.48:604][237]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.09.29-01.16.48:704][237]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.09.29-01.16.48:704][237]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.09.29-01.16.48:704][237]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.09.29-01.16.48:704][237]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.09.29-01.16.48:704][237]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.09.29-01.16.48:704][237]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.09.29-01.16.48:708][237]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.09.29-01.16.48:708][237]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.09.29-01.16.48:708][237]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.09.29-01.16.48:708][237]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.09.29-01.16.48:710][237]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.09.29-01.16.48:710][237]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.09.29-01.16.48:710][237]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.09.29-01.16.48:710][237]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.09.29-01.16.48:710][237]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.09.29-01.16.48:710][237]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.09.29-01.16.48:710][237]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.09.29-01.16.48:710][237]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.09.29-01.16.48:710][237]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.09.29-01.16.48:710][237]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.09.29-01.16.48:710][237]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.09.29-01.16.48:710][237]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.09.29-01.16.48:711][237]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.09.29-01.16.48:711][237]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.09.29-01.16.48:711][237]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.09.29-01.16.48:711][237]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.09.29-01.16.48:711][237]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.09.29-01.16.48:712][237]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.09.29-01.16.48:712][237]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.09.29-01.16.48:712][237]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.09.29-01.16.48:718][237]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.09.29-01.16.48:718][237]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.09.29-01.16.48:718][237]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.09.29-01.16.48:719][237]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.09.29-01.16.48:719][237]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.09.29-01.16.48:719][237]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.09.29-01.16.48:719][237]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.09.29-01.16.48:719][237]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2018.09.29-01.16.48:719][237]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2018.09.29-01.16.48:719][237]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2018.09.29-01.16.48:719][237]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2018.09.29-01.16.48:719][237]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2018.09.29-01.16.48:719][237]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2018.09.29-01.16.48:719][237]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2018.09.29-01.16.48:719][237]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2018.09.29-01.16.48:719][237]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.09.29-01.16.48:722][237]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.09.29-01.16.48:739][237]LogDerivedDataCache: Shutdown
+[2018.09.29-01.16.48:739][237]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.09.29-01.16.48:739][237]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.09.29-01.16.48:739][237]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.09.29-01.16.48:739][237]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.09.29-01.16.48:739][237]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.09.29-01.16.48:739][237]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.09.29-01.16.48:739][237]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.09.29-01.16.48:740][237]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.09.29-01.16.48:740][237]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.09.29-01.16.48:740][237]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.09.29-01.16.48:740][237]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.09.29-01.16.48:740][237]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.09.29-01.16.48:740][237]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.09.29-01.16.48:740][237]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.09.29-01.16.48:740][237]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.09.29-01.16.48:740][237]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.09.29-01.16.48:740][237]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.09.29-01.16.48:740][237]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.09.29-01.16.48:740][237]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.09.29-01.16.48:740][237]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.09.29-01.16.48:741][237]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.09.29-01.16.48:741][237]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.09.29-01.16.48:741][237]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.09.29-01.16.48:741][237]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.09.29-01.16.48:741][237]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.09.29-01.16.48:741][237]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.09.29-01.16.48:741][237]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.09.29-01.16.48:741][237]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.09.29-01.16.48:741][237]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.09.29-01.16.48:741][237]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.09.29-01.16.48:741][237]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.09.29-01.16.48:741][237]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.09.29-01.16.48:741][237]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.09.29-01.16.48:741][237]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.09.29-01.16.48:741][237]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.09.29-01.16.48:741][237]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.09.29-01.16.48:741][237]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.09.29-01.16.48:741][237]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.09.29-01.16.48:742][237]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.09.29-01.16.48:742][237]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.09.29-01.16.48:742][237]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.09.29-01.16.48:742][237]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.09.29-01.16.48:742][237]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.09.29-01.16.48:742][237]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.09.29-01.16.48:742][237]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.09.29-01.16.48:742][237]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.09.29-01.16.48:742][237]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.09.29-01.16.48:742][237]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.09.29-01.16.48:742][237]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.09.29-01.16.48:742][237]LogOnline: Display: Unloading online subsystem: NULL
+[2018.09.29-01.16.48:742][237]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.09.29-01.16.48:743][237]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.09.29-01.16.48:743][237]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.09.29-01.16.48:743][237]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B550F9BD2-4C22-7A31-1CFF-A399A4948822%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=45ca8e4f43e7792f09038bbd91a727a0%7C574dbbd30f5947b08d2b13e08eec1110%7Cb4f28f70-6a0b-4b7a-904b-95b4b9bdd2c8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.29-01.16.48:777][237]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.09.29-01.16.48:779][237]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.29-01.16.48:779][237]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.29-01.16.48:779][237]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.29-01.16.48:780][237]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.29-01.16.48:780][237]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.29-01.16.48:780][237]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.29-01.16.48:780][237]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.29-01.16.48:782][237]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.29-01.16.48:782][237]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.29-01.16.48:782][237]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.29-01.16.48:782][237]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.29-01.16.48:782][237]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.29-01.16.48:782][237]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.29-01.16.48:782][237]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.29-01.16.48:782][237]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.29-01.16.48:782][237]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.29-01.16.48:782][237]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.29-01.16.48:782][237]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.29-01.16.48:787][237]LogExit: Exiting.
+[2018.09.29-01.16.48:812][237]Log file closed, 09/28/18 22:16:48
